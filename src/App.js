@@ -41,7 +41,7 @@ function App() {
   };
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter basename="/react-TextUtils">
         <Navbar
           title="TextUtils"
           aboutUs="About"
