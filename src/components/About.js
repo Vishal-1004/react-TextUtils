@@ -1,6 +1,7 @@
 import React from "react";
 
 function About(props) {
+  document.title = "TextUtils - About";
   return (
     <div
       className="container"
