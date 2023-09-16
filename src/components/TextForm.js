@@ -1,6 +1,7 @@
 import React, { useState, useRef } from "react";
 
 export default function TextForm(props) {
+  document.title = "TextUtils - Home";
   let styleObject = {
     fontSize: 12,
     color: "red",
