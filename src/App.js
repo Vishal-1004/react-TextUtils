@@ -57,7 +57,7 @@ function App() {
               path="/"
               element={
                 <TextForm
-                  heading="Enter the text to do nothing"
+                  heading="Enter the text to analyze"
                   showAlert={showAlert}
                   mode={mode}
                 />
